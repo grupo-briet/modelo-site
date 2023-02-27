@@ -17,3 +17,6 @@ Estuda o conceito de dado de pesquisa e os processos que envolvem sua transforma
 Grupo
 
 Líderes: Luana Farias Sales Marques e Luis Fernando Sayão
+
+
+Dados do Grupo no CNPQ: http://dgp.cnpq.br/dgp/espelhogrupo/5689364231308349
